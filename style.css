@@ -1,7 +1,8 @@
+
 body {
     background-color: #dbefff;
     background-image: linear-gradient(90deg, #dbefff 0%, #faf5ff 100%);
-
+    font-family: 'Philosopher', sans-serif;
 }
 
 .courses {
